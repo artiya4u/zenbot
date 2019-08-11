@@ -1,0 +1,46 @@
+[
+    {
+        "id": "BEM",
+        "asset": "BEM",
+        "currency": "THB",
+        "min_size": "100",
+        "max_size": "100000",
+        "min_total": "100",
+        "increment": "1",
+        "asset_increment": "100",
+        "label": "BEM/THB"
+    },
+    {
+        "id": "PTT",
+        "asset": "PTT",
+        "currency": "THB",
+        "min_size": "100000",
+        "max_size": "100000",
+        "min_total": "100",
+        "increment": "1",
+        "asset_increment": "100",
+        "label": "PTT/THB"
+    },
+    {
+        "id": "AOT",
+        "asset": "AOT",
+        "currency": "THB",
+        "min_size": "100000",
+        "max_size": "100000",
+        "min_total": "100",
+        "increment": "1",
+        "asset_increment": "100",
+        "label": "AOT/THB"
+    },
+    {
+        "id": "CPALL",
+        "asset": "CPALL",
+        "currency": "THB",
+        "min_size": "100000",
+        "max_size": "100000",
+        "min_total": "100",
+        "increment": "1",
+        "asset_increment": "100",
+        "label": "CPALL/THB"
+    }
+]
